@@ -1,5 +1,5 @@
 .vscode/
 *.mp3
 /audio-chunks/*
-/audios/*
-/textos/*
+/audios/*.mp3
+/textos/*.txt
