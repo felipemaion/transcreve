@@ -2,4 +2,5 @@
 *.mp3
 /audio-chunks/*
 /audios/*.mp3
+/audios/*.wav
 /textos/*.txt
